@@ -4,8 +4,20 @@
 
 캐릭터가 동글동글 귀엽게 생겨 국내 팬 사이에서는 감자 야구 야구 라고도 불립니다.
 야구에 대한 인기가 큰 일본이기에 매 타이틀마다 높은 판매량을 올리고 있고, 2014년 발매된 스마트폰 버전은 일본에서 2800만 다운을 기록하며 폭발적인 인기를 얻고 있습니다. 이승엽 선수나, 오승환 선수, 이대호 선수 등 한국 선수들이 활약 할 때는 한국 선수에 대한 정보 또한 있기 때문에 한국 팬들은 한국 선수들을 위주로 키우기도 합니다.
-![Alt lsy](https://github.com/GeekInTheClass/Baseball_Game/blob/master/LSY.jpg "LEE")
-<이승엽><이대호><오승환>
+
+![Alt LSY](https://github.com/GeekInTheClass/Baseball_Game/blob/master/LSY.jpg "LEE")
+
+<이승엽 선수>
+
+![Alt LDH](https://github.com/GeekInTheClass/Baseball_Game/blob/master/LDH.jpg "LEE")
+
+<이대호 선수>
+
+![Alt OSH](https://github.com/GeekInTheClass/Baseball_Game/blob/master/OSH.jpg "LEE")
+
+<오승환 선수>
+
+
 
 ## 특징 (실황 파워풀 프로야구 모바일)
 ###SUCCESS 모드
